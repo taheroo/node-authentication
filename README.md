@@ -1,4 +1,4 @@
-# Reserve Rec Backend
+# Nodejs Simple Authentication System
 
 ## Prerequisites
 
