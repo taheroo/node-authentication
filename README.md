@@ -13,7 +13,7 @@
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) An implementation of JSON Web Tokens.
 - [mongoose](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
 
-## Usage
+## How to Install (CLI)
 
 1. Make sure that you have Node.js and npm installed.
 2. Clone this repo using `git clone https://github.com/taheroo/node-authentication`
@@ -23,7 +23,7 @@
 6. Run `npm start` to start app.
 7. You can check authentication endpoints using Postman by importing this collection <https://www.getpostman.com/collections/2fd07df74b3ef749e207>
 
-## Folder structure
+## Project structure
 
 This template follows a very simple project structure:
 
@@ -34,3 +34,9 @@ This template follows a very simple project structure:
   - `models`: Folder that contains all the mongoose models.
   - `scripts`: Folder that contains all scripts.
   - `app.js`: Entry point of the application.
+
+## Further Reading
+
+- [NodeJS-Learning](https://github.com/sergtitov/NodeJS-Learning)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Token Authentication](https://www.youtube.com/watch?v=UBUNrFtufWo&ab_channel=Fireship)
